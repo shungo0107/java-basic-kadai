@@ -6,10 +6,9 @@ public class CarExec_Chapter15 {
 		
 		Car_Chapter15 displaySpeed = new Car_Chapter15();
 		
-		displaySpeed.gearChange(3);
-
+		displaySpeed.gearChange(4);
 		displaySpeed.run();
-		
+
 	}
 
 }
